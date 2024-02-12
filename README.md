@@ -5,7 +5,7 @@
 ##### The project is a simple implementation of a car rental website. 4 main subpages: home page, contact, order form and a wide range of cars ofert divided into car brands.
 
 ## Technologies
-##### Project was focusing only on the aspects of **_HTML 5_** and **CSS 3** technologies.
+##### Project was focusing only on the aspects of **_HTML 5_** and **_CSS 3_** technologies.
 
 ### Github page:
 https://czaroun.github.io/CarRental/
