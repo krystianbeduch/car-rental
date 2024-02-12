@@ -7,7 +7,5 @@
 ## Technologies
 ##### Project was focusing only on the aspects of **_HTML 5_** and **_CSS 3_** technologies.
 
-### Github page:
-https://czaroun.github.io/CarRental/
-
-
+## Setup:
+##### Project available on GitHub Pages: https://czaroun.github.io/CarRental/
