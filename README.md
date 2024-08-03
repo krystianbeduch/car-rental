@@ -8,4 +8,4 @@ The project is a simple implementation of a car rental website. 4 main subpages:
 Project was focusing only on the aspects of **_HTML 5_** and **_CSS 3_** technologies.
 
 ## Setup
-Project available on GitHub Pages: https://czaroun.github.io/CarRental/
+Project available on GitHub Pages: https://krystianbeduch.github.io/CarRental/
